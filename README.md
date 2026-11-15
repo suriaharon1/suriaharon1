@@ -38,6 +38,10 @@
 **Communications Officer**, TAMU ColorStack · *College Station, TX · Aug 2025 – Present*
 - Drove a **40% rise in community engagement**, and co-lead weekly DSA interview workshops for 10+ members
 
+**Biomedical Technician Apprentice**, Universal Biomedical · *Dallas, TX · Apr 2020 – Aug 2023*
+- Diagnosed and replaced faulty PCBs in medical devices with electronic test equipment, under a senior biomedical technician
+- Performed preventive maintenance on medical devices with **100% compliance with safety standards**
+
 ---
 
 <h3 align="center">GitHub Stats</h3>
