@@ -18,12 +18,12 @@
 <h3 align="center">Languages &amp; Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,linux" />
+  <picture><img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,linux" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></picture>
 </p>
 
 ---
@@ -47,17 +47,17 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suriaharon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriaharon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <picture><img height="165" src="https://github-readme-stats.vercel.app/api?username=suriaharon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" /></picture>
+  <picture><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriaharon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suriaharon1&theme=tokyonight&hide_border=true&background=0d1117" />
+  <picture><img src="https://streak-stats.demolab.com?user=suriaharon1&theme=tokyonight&hide_border=true&background=0d1117" /></picture>
 </p>
 
 <!-- LeetCode card: replace YOUR_LEETCODE and uncomment
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Baloo%202&ext=heatmap" />
+  <picture><img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Baloo%202&ext=heatmap" /></picture>
 </p>
 -->
 
