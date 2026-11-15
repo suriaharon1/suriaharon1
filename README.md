@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering @ Texas A&amp;M University '28 | Python, C++, Verilog | Builder. Student. Has a list, and is working through it.
+  Computer Engineering @ Texas A&amp;M University '28 | Python, C++, Verilog
 </p>
 
 - 🚢 **Summer 2026:** Data Management Intern @ **General Dynamics Electric Boat**
