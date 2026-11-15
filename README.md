@@ -16,15 +16,14 @@
 - 🔭 Currently building a **RISC-V CPU from scratch in Verilog**
 - 🌱 Looking for **Summer 2027 internships**
 
-<h3 align="center">Tech Stack &amp; Tools</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,cloudflare,vercel,linux,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-FPGA-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 ---
